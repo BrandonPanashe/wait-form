@@ -1,0 +1,3 @@
+[submodule "Crefund-Waitlist"]
+	path = Crefund-Waitlist
+	url = https://github.com/BrandonPanashe/cre-form.git
